@@ -1,0 +1,62 @@
+.podtlo{
+width:100%;
+min-height:100%;
+padding:20px 20px 20px 20px;
+}
+
+.podtlo>h1{
+text-align:left;
+font-family:calibri;
+font-variant:small-caps;
+}
+
+.podtlo p{
+font-size:18px;
+text-align:left;
+font-family:calibri;
+}
+
+.podtlo ul{
+font-size:18px;
+font-family:calibri;
+}
+
+#przesun{
+text-align:right;
+}
+
+#sr{
+margin-left:300px;
+}
+
+#pg{
+font-weight:bold;
+}
+
+#imgo{
+border-style:solid;
+border-width:2px;
+border-color:black;
+margin:20px;
+float:right;
+width:450px;
+height:200px;
+}
+
+#imgs{
+border-style:solid;
+border-width:2px;
+border-color:black;
+margin:20px;
+float:right;
+width:240px;
+height:120px;
+}
+
+textarea
+{
+    border:1px solid #999999;
+    width:90%;
+    margin:5px 0;
+    padding:3px;
+}
